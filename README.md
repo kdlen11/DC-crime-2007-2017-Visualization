@@ -4,7 +4,7 @@ Created for a group project in Data Visualization course, meant to illustrate th
 
 Repository contains code used to make ANC Choropleth map, as well as the final product into which the map was implemented.
 
-Crime data from Kaggle (https://www.kaggle.com/datasets/vinchinzu/dc-metro-crime-data) and Geometry data from Open Data Dc (https://opendata.dc.gov/datasets/DCGIS::advisory-neighborhood-commissions-from-2013/about).
+Crime data used in project is from Kaggle (https://www.kaggle.com/datasets/vinchinzu/dc-metro-crime-data), further + more complete data found at https://crimecards.dc.gov/.  Geometry data from Open Data DC (https://opendata.dc.gov/datasets/DCGIS::advisory-neighborhood-commissions-from-2013/about).
 
 ANC = Advisory Neighborhood Committee. 
 Advisory Neighborhood Commissions (ANCs) are collections of Single Member Districts (SMDs). ANCs allow input from an advisory board made up of the residents of the neighborhoods directly affected by government action (Open Data DC).
