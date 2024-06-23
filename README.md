@@ -1,6 +1,6 @@
-# DC-crime-2013-Choropleth-Map
+# DC-crime-2007-2017-Visualization
 
-Utilized in a group project in Data Visualization course, meant to illustrate the safest times and places to visit DC.
+Created for a group project in Data Visualization course, meant to illustrate the safest times and places to visit DC.
 
 Repository contains code used to make ANC Choropleth map, as well as the final product into which the map was implemented.
 
